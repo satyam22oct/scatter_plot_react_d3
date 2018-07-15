@@ -12,7 +12,7 @@ src/redux/reducer/reducer.js : have experimental reducer data
 The following explains how to setup app.
 
 Step: 1 go to link
-
+https://github.com/satyam22oct/scatter_plot_react_d3
 
 Step: 2 clone or download
 
